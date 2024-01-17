@@ -40,6 +40,8 @@ To create a self-service account navigate to the [GCP console](https://console.c
 When prompted to log-in click the “Create Account” link and follow the steps.  Once you have signed in to the console you can create a billing account by following the instructions [here](https://cloud.google.com/billing/docs/how-to/manage-billing-account), or by claiming the complimentary $300 credit (at the time of writing and courtesy of Google) by clicking on the link in the banner. The self-service option requires a valid credit card for billing, which can be an institutional or personal card.
 </BR>
 
+[GCP Pricing Calculator](https://cloud.google.com/products/calculator?hl=en)
+
 ## GCP Support
 ARCSIM does not provide direct support for Google Cloud Platform, but does facilitate access to support from Google.
 
